@@ -1,0 +1,28 @@
+.NormalParagraphFont {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.NormalHeaderFont {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.CSSExample1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+  color: azure;
+  background-color: black;
+}
+.CSSExample2 {
+
+}
+.CSSExample3 {
+
+}
